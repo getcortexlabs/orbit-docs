@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a2 as r}from"./chunks/framework.D66Xq0Kv.js";const g=JSON.parse('{"title":"Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"guide/wiki.md","filePath":"guide/wiki.md"}'),s={name:"guide/wiki.md"};function n(i,e,h,d,l,c){return o(),a("div",null,[...e[0]||(e[0]=[r("",38)])])}const w=t(s,[["render",n]]);export{g as __pageData,w as default};
